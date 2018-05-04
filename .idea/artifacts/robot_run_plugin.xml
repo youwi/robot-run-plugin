@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="robot-run-plugin">
+    <output-path>$PROJECT_DIR$/out/artifacts/robot_run_plugin</output-path>
+    <root id="archive" name="robot-run-plugin.jar" />
+  </artifact>
+</component>
